@@ -197,7 +197,7 @@ The top-25 LightGBM importances confirm the EDA story: contact length, the refer
 
 ---
 
-# Model Interpretation
+# Demonstration & Applications
 
 The model demonstrates how gradient boosting on engineered tabular features, combined with a small soft-voting ensemble, can be applied to imbalanced marketing-response prediction.
 
